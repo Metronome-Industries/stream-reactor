@@ -114,7 +114,7 @@ object Dependencies {
     val influxVersion = "2.22"
 
     val jmsApiVersion = "2.0.1"
-    val activeMqVersion = "5.17.0"
+    val activeMqVersion = "5.16.5"
 
     val kuduVersion = "1.16.0"
 
